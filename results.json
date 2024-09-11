@@ -1,0 +1,209 @@
+{
+    "tests": [
+        {
+            "name": "test_step1 (test_mini_project2.TestMiniProject2.test_step1)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step1"
+        },
+        {
+            "name": "test_step2 (test_mini_project2.TestMiniProject2.test_step2)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step2"
+        },
+        {
+            "name": "test_step3 (test_mini_project2.TestMiniProject2.test_step3)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step3"
+        },
+        {
+            "name": "test_step4 (test_mini_project2.TestMiniProject2.test_step4)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step4"
+        },
+        {
+            "name": "test_step5 (test_mini_project2.TestMiniProject2.test_step5)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step5"
+        },
+        {
+            "name": "test_step6 (test_mini_project2.TestMiniProject2.test_step6)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step6"
+        },
+        {
+            "name": "test_step7 (test_mini_project2.TestMiniProject2.test_step7)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step7"
+        },
+        {
+            "name": "test_step8 (test_mini_project2.TestMiniProject2.test_step8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step8"
+        },
+        {
+            "name": "test_step9 (test_mini_project2.TestMiniProject2.test_step9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step9"
+        },
+        {
+            "name": "test_step_10 (test_mini_project2.TestMiniProject2.test_step_10)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step_10"
+        },
+        {
+            "name": "test_step_11_1 (test_mini_project2.TestMiniProject2.test_step_11_1)",
+            "score": 20,
+            "max_score": 20,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step_11_1"
+        },
+        {
+            "name": "test_step_11_2 (test_mini_project2.TestMiniProject2.test_step_11_2)",
+            "score": 20,
+            "max_score": 20,
+            "status": "passed",
+            "output": "\nC:\\Users\\Shweta A. M. Hatote\\Desktop\\Study\\Python (503)\\mini-project2\\tests\\test_mini_project2.py:362: FutureWarning: Calling int on a single element Series is deprecated and will raise a TypeError in the future. Use int(ser.iloc[0]) instead\n  assert int(df.iloc[0]) == 621806\n",
+            "visibility": "visible",
+            "number": "step_11_2"
+        },
+        {
+            "name": "test_z_ex1_1 (test_mini_project2.TestMiniProject2.test_z_ex1_1)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex1_1"
+        },
+        {
+            "name": "test_z_ex1_2 (test_mini_project2.TestMiniProject2.test_z_ex1_2)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex1_2"
+        },
+        {
+            "name": "test_z_ex2_1 (test_mini_project2.TestMiniProject2.test_z_ex2_1)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex2_1"
+        },
+        {
+            "name": "test_z_ex2_2 (test_mini_project2.TestMiniProject2.test_z_ex2_2)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex2_2"
+        },
+        {
+            "name": "test_z_ex3 (test_mini_project2.TestMiniProject2.test_z_ex3)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex3"
+        },
+        {
+            "name": "test_z_ex4 (test_mini_project2.TestMiniProject2.test_z_ex4)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex4"
+        },
+        {
+            "name": "test_z_ex5 (test_mini_project2.TestMiniProject2.test_z_ex5)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex5"
+        },
+        {
+            "name": "test_z_ex6 (test_mini_project2.TestMiniProject2.test_z_ex6)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex6"
+        },
+        {
+            "name": "test_z_ex7 (test_mini_project2.TestMiniProject2.test_z_ex7)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex7"
+        },
+        {
+            "name": "test_z_ex8 (test_mini_project2.TestMiniProject2.test_z_ex8)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex8"
+        },
+        {
+            "name": "test_z_ex9 (test_mini_project2.TestMiniProject2.test_z_ex9)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex9"
+        },
+        {
+            "name": "test_z_ex_10 (test_mini_project2.TestMiniProject2.test_z_ex_10)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex_10"
+        },
+        {
+            "name": "test_z_ex_11 (test_mini_project2.TestMiniProject2.test_z_ex_11)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "z_ex_11"
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "35.20",
+    "score": 185
+}
