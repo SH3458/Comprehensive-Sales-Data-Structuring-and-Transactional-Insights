@@ -14,7 +14,9 @@ Execute optimized SQL queries to analyze sales trends, product performance, and 
 The dataset includes the following fields:
 
 **Customer Information:**  Name, Address, City, Country, Region.
+
 **Product Details:** Product Name, Category, Category Description, Unit Price.
+
 **Sales Metrics:** Quantity Ordered, Order Date.
 
 
